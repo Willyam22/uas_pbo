@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=jalan
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ jalan\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ jalan\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=jarak
+comment2.target=void\ movedown(int)
+comment3.params=
+comment3.target=void\ balik()
+comment4.params=
+comment4.target=void\ perfect()
+comment5.params=
+comment5.target=void\ perfectats()
+comment6.params=
+comment6.target=void\ perfectkn()
+comment7.params=
+comment7.target=void\ perfectkr()
+comment8.params=
+comment8.target=void\ visible()
+numComments=9
